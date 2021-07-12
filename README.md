@@ -16,8 +16,8 @@ The following are the principle by which Earthsteading is obliged to provide all
 
 ## Complaints procedure
 To resolve a dispute please proceed with the following complaints procedure:
- - [ ] Please either [email](mailto:earthsteading@gmail.com?subject=[Code%of%conduct]%request%for%resolution%of%complaint) or [post a public complaint](/complaints-procedure/issues) to Earthsteading Ltd providing details of your complaint.
- - [ ] All complaints are [logged as issues in our complaints repository](/complaints-procedure/issues), including how the dispute was resolved and the actions taken which resolved the dispute.
+ - [ ] Please either [email](mailto:earthsteading@gmail.com?subject=[Code%of%conduct]%request%for%resolution%of%complaint) or [post a public complaint](https://github.com/earthsteading/complaints-procedure/issues) to Earthsteading Ltd providing details of your complaint.
+ - [ ] All complaints are [logged as issues in our complaints repository](https://github.com/earthsteading/complaints-procedure/issues), including how the dispute was resolved and the actions taken which resolved the dispute.
  - [ ] Complaints are usually resolved in a fortnight, depending on the severity and cost of the complaint.
  - [ ] If your complaint is not resolved by Earthsteading to your satisfaction, please proceed to the Building Appeals Board (BAB), where clients can obtain additional assistance to resolve a complaint.
  - [ ] Complaints can be lodged to the BAB using the following categories: inspection by surveyor, disputes between adjoining owners or adjoining party walls, building permit levy, clarification on Building Regulations laws, and/or disputes related to the 1997 Residential Tenancies Act.
