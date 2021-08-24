@@ -12,5 +12,7 @@ I make this appointment in my capacity as the owner of the subject property.
 As the owner of the subject property, I hereby acknowledge that [I am fully informed of the role of the Relevant Building Surveyor](https://github.com/earthsteading/contracting-procedures), and that I have not appointed another Building Surveyor for these works. 
   
 Owner/s Signature(s): _____________________________________________    
-Print Name/s: {please provide full name as it appears on land deed}
+
+Print Name/s: [please provide full name as it appears on land deed]
+
 Date: ______________
