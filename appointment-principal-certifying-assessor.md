@@ -1,4 +1,10 @@
-# Letter of Appointment 
+# Appointment of principal certifying assessor
+
+Instructions to appoint a building surveyor:
+  - [x] Please copy and paste the below document, filling out and signing the form with the correct information;
+  - [x] Return a PDF version to Earthsteading@gmail.com
+
+## Letter of Appointment 
 
 I/We [insert owners name] of the subject property [insert address matching land title]
 
