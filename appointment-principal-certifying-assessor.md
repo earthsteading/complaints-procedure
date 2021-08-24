@@ -10,7 +10,7 @@ I/We [insert owners legal name(s)] of the subject property [insert address match
 
 HEREBY APPOINT:
 
-David Flanders of [Earthsteading Surveying Ltd](https://github.com/earthsteading/wominjeka)(ABN: 57584148640)
+David Flanders of [Earthsteading Surveying Ltd](https://github.com/earthsteading/wominjeka) (ABN: 57584148640)
 
 To act as the Relevant Building Surveyor, to carry out the function of Section 76 of the Building Act 1993, Building Regulations 2018 for the proposed building work as detailed on the building permit application form.  
 
