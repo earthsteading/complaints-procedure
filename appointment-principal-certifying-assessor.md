@@ -6,7 +6,7 @@ Instructions to appoint a building surveyor:
 
 ## Letter of Appointment 
 
-I/We [insert owners name] of the subject property [insert address matching land title]
+I/We [insert owners legal name(s)] of the subject property [insert address matching land title]
 
 HEREBY APPOINT:
 
