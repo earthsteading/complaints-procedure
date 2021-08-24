@@ -1,6 +1,7 @@
 # Letter of Appointment 
 
 I/We [insert owners name] of the subject property [insert address matching land title]
+
 HEREBY APPOINT:
 
 David Flanders of [Earthsteading Surveying Ltd](https://github.com/earthsteading/wominjeka)(ABN: 57584148640)
