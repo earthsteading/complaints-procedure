@@ -3,6 +3,9 @@
 Earthsteading as a registered Australasian building surveyor is obliged to provide an exemplary code of conduct for all clients and partners. Below you will find details of how interactions and complaints should be handled.  [Please read our legal terms and conditions for contracting our services](https://github.com/earthsteading/contracting-procedures/blob/main/contracting-procedure.md).
 
 ## Code of conduct policy
+
+*The aim of our conduct is to empower you to bring together your build team (architect/designer, builder, engineers, et al) to achieve a building of legacy which will stand the test of time.*
+
 The following are the principle by which Earthsteading is obliged to provide all clients and partners under Australian legislation.
 
  1. Act in accordance with the law and in the public interest 
