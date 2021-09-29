@@ -16,6 +16,12 @@ The following are the principle by which Earthsteading is obliged to provide all
  7. Communicate promptly and effectively 
  8. Provide a complaint handling process and address issues of non-compliance.
 
+## Value-ad
+In addition to the above legal requirements of a building surveyor, Earthsteading provides the following support throughout our contracted services:
+ - [x] Unlimited emails correspondence between you and the build team, e.g. assurance the builder and architect are in agreement on all schematic instructions.
+ - [x] Access to our list of trusted industry professionals, i.e. builders, engineers, architects, designers, plumbers, fire safety, accessibilty compliance and many more.
+ - [x] Genuine effort to support your learning and education for how the National Construction Code keeps your building safe and reliable for years to come.
+
 ## Complaints procedure
 To resolve a dispute please proceed with the following complaints procedure:
  - [ ] Please either [email](mailto:earthsteading@gmail.com?subject=[Code%of%conduct]%request%for%resolution%of%complaint) or [post a public complaint](https://github.com/earthsteading/complaints-procedure/issues) to Earthsteading Ltd providing details of your complaint.
