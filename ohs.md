@@ -13,3 +13,16 @@ Tools:
  - [ ] surveying tripod
  - [ ] clipboard/tablet for documentation
  - [ ] mobile phone camera
+
+Working at height:
+  - [ ] eliminate risk by taking pictures from the ground
+  - [ ] passive fall prevention devices
+  - [ ] work positioning systems
+  - [ ] fall arrest systems
+  - [ ] fixed or portable ladder use
+
+Trenching and excavation work:
+  - [ ] Shoring, dtiching and excavation training by CFMEU
+
+## References
+ - https://www.worksafe.vic.gov.au/fall-prevention
