@@ -21,6 +21,7 @@ In addition to the above legal requirements of a building surveyor, Earthsteadin
  - [x] Unlimited emails correspondence between you and the build team, e.g. assurance the builder and architect are in agreement on all schematic instructions.
  - [x] Access to our list of trusted industry professionals, i.e. builders, engineers, architects, designers, plumbers, fire safety, accessibilty compliance and many more.
  - [x] Genuine effort to support your learning and education for how the National Construction Code keeps your building safe and reliable for years to come.
+ - [x] Fortnightly project management updates and progress reporting, to help keep you motivated and your 'eye on the prize'.
 
 ## Complaints procedure
 To resolve a dispute please proceed with the following complaints procedure:
@@ -31,3 +32,5 @@ To resolve a dispute please proceed with the following complaints procedure:
  - [ ] Complaints can be lodged to the BAB using the following categories: inspection by surveyor, disputes between adjoining owners or adjoining party walls, building permit levy, clarification on Building Regulations laws, and/or disputes related to the 1997 Residential Tenancies Act.
  - [ ] Once lodged, the BAB will: (a) acknowledge the complaint, (b) notify the building surveyor of the complaint being made, and (c) provide a decision in a timely manner.
  - [ ] The building surveyor must comply with the decision and make amends.
+
+Cite this page: 
