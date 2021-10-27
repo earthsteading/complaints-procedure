@@ -33,4 +33,4 @@ To resolve a dispute please proceed with the following complaints procedure:
  - [ ] Once lodged, the BAB will: (a) acknowledge the complaint, (b) notify the building surveyor of the complaint being made, and (c) provide a decision in a timely manner.
  - [ ] The building surveyor must comply with the decision and make amends.
 
-Cite this page: 
+Cite this page: https://earthsteading.limited/code-of-conduct
