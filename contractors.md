@@ -3,4 +3,5 @@ Ticked lists confirm that I've worked with this contractor directly in the past:
  - [ ] Steve at EcoResults - energy efficiency performance solutions, commercial warehouses, u-values, r-values, etc.
 
 
-## Contractors specific to off-grid builds
+## Contractors specific to off-grid builds esp tradies
+https://github.com/earthsteading/Earthship/blob/master/tradies.md 
