@@ -1,15 +1,15 @@
 # Open Source Performance Solutions
 
-To agree to this license, please create a GitHub account and Earthsteading Pty Ltd will send you a link to digitally sign the below Open Source license agreement.
+To agree to this license, please copy and paste the below text into an email and add your digital signature. Alternatively, create a GitHub account and Earthsteading Pty Ltd will send you a link to digitally sign the below Open Source license agreement.
+
+**Why use Open Source licensing?** = Open Source Innovation originated in the USA’s automobile and computer sectors (Ford and IBM), which provided economic advantages by accelerating sector wide innovation via open patent transactions.  The economic advantages of building cars and computers with fewer transactional costs is defined by 1991 Noble Prize winner in economics Ronald Coase.  By comparison the Australin building industry continues to use standards which predate modern economics and is the largest contributor to greenhouse gas emissions in the country.
 
 Terms, standards and legislation referenced in this contract license agreement:
- - Client Consumer Customer Contributor
- - Performance Based Design Brief, Performance Based Design Report as defined by ABCB
- - Build Acts and Regulations
- - Consumer and Competition Act
- - Data Privacy 
- - Creative Commons License
- - 
+ - The terms "Client", "Consumer", "Customer" and/or "Contributor" are used interchangeably throughout this document and all correspondence to reference the parties engaged as "Stakeholders" in the Performance Solution process and products.
+ - "Perforamnce Solution Product", "Performance Based Design Brief (PBDB)", "Performance Based Design Report (PBDR)" and all related "Performance Solution" terms are defined by the Australian Building Code Board, as identified in their online publications including the National Construction Code (aka Building Code of Australia) and all subsequent standards and handbooks.
+ - The Australian "Building Act" and "Regulations" define the roles and responsibilities for producting Performance Solution products and services.
+ - The Austrlaian Consumer and Competition Act define the rights, for you, the client in agreeing to license any and all Performance Solution products via a Creative Commons license.
+ - "Creative Commons License" acknowledges the minimum rights of contributors: Creative Commons Attribution ShareAlike 4.0 license (CC BY-SA 4.0) This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit enhanced innovation.
 
 ## Agreement to license Performance Solution documents via a Creative Commons license
   - [ ] From: David Flanders Tuke, Owner-operator, [Earthsteading Pty Ltd](https://github.com/earthsteading/wominjeka/blob/main/README.md)
