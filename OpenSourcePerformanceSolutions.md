@@ -1,3 +1,5 @@
+This documents identifier is = https://earthsteading.limited/creative-commons-license-agreement
+
 # Open Source Performance Solutions
 
 To agree to this license, please copy and paste the below text into an email and add your digital signature. Alternatively, create a GitHub account and Earthsteading Pty Ltd will send you a link to digitally sign the below Open Source license agreement.
