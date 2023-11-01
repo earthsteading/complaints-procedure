@@ -17,7 +17,7 @@ The following are the principle by which Earthsteading is obliged to provide all
  8. Provide a complaint handling process and address issues of non-compliance.
 
 ## Value-ad
-In addition to the above legal requirements for buidling, Earthsteading provides the following support throughout our contracted services:
+In addition to the above legal requirements for building, Earthsteading provides the following support throughout our contracted services:
  - [x] Unlimited emails correspondence between you and the build team, e.g. assurance the builder and architect are in agreement on all schematic instructions.
  - [x] Access to our list of trusted industry professionals, i.e. builders, engineers, architects, designers, plumbers, fire safety, accessibilty compliance and many more.
  - [x] Genuine effort to support your learning and education for how the National Construction Code keeps your building safe and reliable for years to come.
